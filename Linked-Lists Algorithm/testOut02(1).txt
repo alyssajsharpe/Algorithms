@@ -1,0 +1,60 @@
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter new item id, name, and price (without commas): * Inserting Item #4
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter item ID to delete: * Deleting Item #4
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter item ID to display: * Outputting Item #4:
+NOT FOUND.
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+* The Item Database *
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+* Resetting the Item Database
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+* You have chosen to QUIT

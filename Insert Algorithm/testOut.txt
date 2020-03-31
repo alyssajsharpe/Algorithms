@@ -1,0 +1,283 @@
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter new item id, name, and price (without commas): * Inserting Item #500
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter new item id, name, and price (without commas): * Inserting Item #0
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter new item id, name, and price (without commas): * Inserting Item #45
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter new item id, name, and price (without commas): * Inserting Item #2
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter new item id, name, and price (without commas): * Inserting Item #45
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter new item id, name, and price (without commas): * Inserting Item #45
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter new item id, name, and price (without commas): * Inserting Item #120
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter new item id, name, and price (without commas): * Inserting Item #52
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter new item id, name, and price (without commas): * Inserting Item #53
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter new item id, name, and price (without commas): * Inserting Item #54
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter new item id, name, and price (without commas): * Inserting Item #51
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter new item id, name, and price (without commas): * Inserting Item #1
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter new item id, name, and price (without commas): * Inserting Item #499
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+* The Item Database *
+ID: 0 NAME: first PRICE: $11.00
+ID: 1 NAME: g PRICE: $18.00
+ID: 2 NAME: a PRICE: $5.00
+ID: 45 NAME: first45 PRICE: $23.00
+ID: 51 NAME: f PRICE: $17.00
+ID: 52 NAME: c PRICE: $14.00
+ID: 53 NAME: d PRICE: $15.00
+ID: 54 NAME: e PRICE: $16.00
+ID: 120 NAME: b PRICE: $27.00
+ID: 499 NAME: h PRICE: $19.00
+ID: 500 NAME: last PRICE: $99.00
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter item ID to delete: * Deleting Item #499
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter item ID to delete: * Deleting Item #52
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter item ID to delete: * Deleting Item #0
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+* The Item Database *
+ID: 1 NAME: g PRICE: $18.00
+ID: 2 NAME: a PRICE: $5.00
+ID: 45 NAME: first45 PRICE: $23.00
+ID: 51 NAME: f PRICE: $17.00
+ID: 53 NAME: d PRICE: $15.00
+ID: 54 NAME: e PRICE: $16.00
+ID: 120 NAME: b PRICE: $27.00
+ID: 500 NAME: last PRICE: $99.00
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+* Resetting the Item Database
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter new item id, name, and price (without commas): * Inserting Item #3
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter new item id, name, and price (without commas): * Inserting Item #2
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter new item id, name, and price (without commas): * Inserting Item #5
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+* The Item Database *
+ID: 2 NAME: aaa PRICE: $22.00
+ID: 3 NAME: bbb PRICE: $33.00
+ID: 5 NAME: ccc PRICE: $55.00
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+Enter item ID to delete: * Deleting Item #2
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+* The Item Database *
+ID: 3 NAME: bbb PRICE: $33.00
+ID: 5 NAME: ccc PRICE: $55.00
+
+** ITEM INVENTORY MENU **
+1. Insert Item
+2. Delete Item
+3. Output Single Item
+4. Output Item DB
+5. Reset Item DB
+6. Quit
+* Enter your choice (1-6):  
+* You have chosen to QUIT
